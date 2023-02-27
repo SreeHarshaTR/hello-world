@@ -3,3 +3,4 @@ this is the first msg.
 my new brach and a new line.
 a new line is being added.
 a new line is added using github.
+added a new line in it for checking the git push command.
